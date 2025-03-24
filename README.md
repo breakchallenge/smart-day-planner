@@ -84,10 +84,6 @@ src/
 - Task priority settings
 - Export functionality for schedules
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - [Create React App](https://create-react-app.dev/) - For the project setup
